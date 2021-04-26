@@ -1,1 +1,1 @@
-# ZeroProject
+# 공공데이터를 이용한 AI 공부
